@@ -1,2 +1,2 @@
 # Medical-ML
-A repository analysing different ML methods on an example medical classification dataset
+A repository analysing different ML methods on an example medical classification dataset.
